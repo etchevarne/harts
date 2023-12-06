@@ -1,0 +1,14 @@
+:root {
+  --primary: #5cc6ba;
+  --secondary: #a0a0a0;
+  --tertiary: #717F7F;
+  --quaternary: #F1F5F4;
+
+  
+}
+
+.title {
+  /* text-align: center; */
+  color: var(--primary) !important;
+  /* margin-bottom: 30px; */
+}
